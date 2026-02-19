@@ -6,6 +6,6 @@ r2 = n1-n2
 r3 = n1*n2
 r4 = n1/n2
 print("Addition: ", r1)
-print("Subtraction " ,r2)
-print("Multiplication ",r3)
-print("Division ",r4)
+print("Subtraction: " ,r2)
+print("Multiplication: ",r3)
+print("Division: ",r4)
